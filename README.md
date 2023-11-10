@@ -1,4 +1,3 @@
-# Corkboard
 ## Async FastAPI ticket system for communities with login and communications over Telegram bot
 
 Currently in beta version. Not all files correct.
